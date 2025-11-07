@@ -1,5 +1,7 @@
 # 📦 Project Setup
 
+# Video Demonstration of Project
+Link: https://drive.google.com/file/d/1W2Zn_LVaY2GZnzIm1-Jiv9-Y36Y9rLwt/view?usp=sharing 
 # Screenshots for each query
 
 ### Creating Tables
